@@ -29,7 +29,6 @@ public class CreateDataBase {
                 Logger.getLogger(DepartamentoDAO.class.getName()).log(Level.SEVERE, null, ex);
             } catch (SQLException ex) {
              Logger.getLogger(CreateDataBase.class.getName()).log(Level.SEVERE, null, ex);
-         }
-          
+         }          
      }
 }
